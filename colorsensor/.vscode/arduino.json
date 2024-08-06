@@ -1,8 +1,0 @@
-{
-    "sketch": "colorsensor.ino",
-    "output": "build",
-    "configuration": "cpu=atmega328old",
-    "board": "arduino:avr:nano",
-    "programmer": "avrisp",
-    "port": "COM3"
-}
