@@ -1,9 +1,0 @@
-#line 1 "C:\\Users\\msi\\Desktop\\ColorSensor\\colorsensor\\.vscode\\arduino.json"
-{
-    "sketch": "colorsensor.ino",
-    "output": "build",
-    "configuration": "cpu=atmega328old",
-    "board": "arduino:avr:nano",
-    "programmer": "avrisp",
-    "port": "COM3"
-}
